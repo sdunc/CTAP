@@ -1,9 +1,11 @@
-## SAP ##
-Stephen's Aerial Program
+## cTAP
+
+CT Aerial Program
 
 Written in ~ 2 hours for RACE Coastal Engineering to assist in engineering operations.
+Rewritten 9/14/19 without an ugly GUI and to reduce needless geocoding
+Needs a google API key to work! 
+~100 lines of python
 
 * A simple program to return historical aerial photography.
-* Written in python. GUI is tkinter.
-* Geocoding service is googleV3 but it should be trivial to swap out.
-* could be improved to reduce # of geocodes.
+* Geocoding service is googleV3 but it should be trivial to swap out for nominatim or something
