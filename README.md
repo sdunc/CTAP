@@ -1,2 +1,0 @@
-# cTAP
-CT Aerial Program
